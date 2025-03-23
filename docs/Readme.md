@@ -1,6 +1,6 @@
 #This a model for failure prediction of systems based on system health data
 
-Team members:Syreeta Fahmida, 
+Team members:Syreeta Fahmida, Shraddha B Surakod, M Sravani, Sadhana Hegde, Ranjitha C Gowli
 
 We have build a set of supervised and unsupervised methods for the above purpose.  Important signals being used are memory usage, io usage, network usage and nfs usage
 
